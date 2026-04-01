@@ -18,6 +18,7 @@ Slaptažodis: test123
 ## arba tiesiog pervardink į .env
 
 ```bash
+cd movie-app-backend
 cp .env.example .env
 npm install
 npm run start:dev
