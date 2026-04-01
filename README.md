@@ -36,7 +36,7 @@ npm run dev
 
 Frontas: `http://localhost:5173`
 
-## Funkcionalumas
+## Features
 
 - Registracija / prisijungimas (JWT access + refresh tokens)
 - Filmų CRUD
