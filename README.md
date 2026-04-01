@@ -1,4 +1,4 @@
-Mėgstamiausių filmų sąrašo aplikacija su autentifikacija.
+Favorite movie list app
 
 ## Technologijos:
 
